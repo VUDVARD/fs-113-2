@@ -64,6 +64,7 @@ color: #434455;
 background: #2e2f42;
 width: 1440px;
 height: 600px;
+
 }
 .title-text {
 font-weight: 700;
@@ -72,6 +73,8 @@ line-height: 107%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+background-color: #404BBF
+cursor: pointer
 }
 
 .title-btm {
@@ -117,6 +120,8 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-transform: capitalize
 color: #2e2f42;
+text-align
+text-transform: capitalize
 }
 
 .team-list {
