@@ -33,6 +33,7 @@ color: #4d5ae5;
 
 
 .address-link {
+font-style: normal
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -114,7 +115,7 @@ font-weight: 700;
 font-size: 36px;
 line-height: 111%;
 letter-spacing: 0.02em;
-text-align: center;
+text-transform: capitalize
 color: #2e2f42;
 }
 
@@ -127,6 +128,7 @@ border-radius: 0 0 4px 4px;
 padding: 0px 0px 32px 0px;
 width: 264px;
 height: 380px;
+background-color: #FFFFFF
 
 }
 
@@ -167,6 +169,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize
 
 }
 
@@ -224,14 +227,15 @@ color: #4d5ae5;
 
 .footer-logo-color {
     color: #f4f4fd;
+    font-family: "Raleway", sans-serif
+    font-weight: 700;
 }
 
 .footer-test {
 font-weight: 400;
 font-size: 16px;
-
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #f4f4fd;
+etter-spacing: 0.02em;
+color: #F4F4FD;
+line-height: 1.5
 }
 
