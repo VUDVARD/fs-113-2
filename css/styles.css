@@ -1,7 +1,7 @@
 body{
 font-family: 'Roboto' sans-serif;
 color: #434455;
-background: #FFFFFF
+background-color: #FFFFFF;
     
 }
 ul{
@@ -61,8 +61,6 @@ color: #434455;
 
 .title {
 background: #2e2f42;
-width: 1440px;
-height: 600px;
 }
 
 .title-text {
@@ -78,8 +76,6 @@ color: #fff;
 background: #4d5ae5;
 border-radius: 4px;
 padding: 16px 32px;
-width: 169px;
-height: 56px;
 font-weight: 500;
 font-size: 16px;
 line-height: 150%;
@@ -88,24 +84,10 @@ color: #fff;
 cursor: pointer;
 }
 
-.visually-hidden {
-position: absolute;
-width: 1px;
-height: 1px;
-margin: -1px;
-border: 0;
-padding: 0;
-white-space: nowrap;
-clip-path: inset(100%);
-clip: rect(0 0 0 0);
-overflow: hidden;
-}
 
   
 .team {
 background: #f4f4fd;
-width: 1440px;
-height: 732px;
 }
 
 .team-title {
@@ -123,16 +105,10 @@ text-align;
 }
 
 .team-item {
-border-radius: 0 0 4px 4px;
-padding: 0px 0px 32px 0px;
-width: 264px;
-height: 380px;
 background-color: #FFFFFF;
 }
 
 .team-foto {
-width: 264px;
-height: 260px;
 }
 
 .team-name {
@@ -154,8 +130,6 @@ color: #434455;
 }
 
 .portfolio {
-width: 1128px;
-height: 1000px;
 }
 
 .portfolio-title {
@@ -170,13 +144,9 @@ text-transform: capitalize;
 
 
 .portfolio-list {
-width: 1128px;
-height: 420px;
 }
 
 .portfolio-item {
-width: 360px;
-height: 420px;
 }
 
 .department {
@@ -199,8 +169,6 @@ color: #2e2f42;
 }
 
 .footer {
-width: 1440px;
-height: 312px;
 background: #2e2f42;
 }
 
