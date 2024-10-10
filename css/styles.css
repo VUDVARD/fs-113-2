@@ -1,6 +1,6 @@
 body{
-font-family: 'Roboto', sans-serif;
-color: #434455
+font-family: 'Roboto' sans-serif;
+color: #434455;
 background: #FFFFFF
     
 }
@@ -11,9 +11,8 @@ a {text-decoration: none;
 }
 
 .header-logo {
+font-family: "Raleway" sans-serif;
 font-weight: 700;
-font-family: "Raleway", sans-serif
-
 font-size: 18px;
 line-height: 117%;
 letter-spacing: 0.03em;
@@ -22,7 +21,10 @@ color: #4d5ae5;
 }
 
 .header-logo-color {
-    color: #2e2f42; }
+
+color: #2e2f42; 
+
+}
 
 .header-info-link {
     font-weight: 500;
@@ -30,7 +32,7 @@ color: #4d5ae5;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    color: ;
+    
 }
 
 
@@ -40,7 +42,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
-font-style: normal
+font-style: normal;
 
 }
 
@@ -74,7 +76,7 @@ line-height: 107%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
-background-color: #404BBF
+
 
 }
 
@@ -84,13 +86,13 @@ border-radius: 4px;
 padding: 16px 32px;
 width: 169px;
 height: 56px;
-
 font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.04em;
 color: #fff;
-cursor: pointer
+cursor: pointer;
+
 
 }
 
@@ -120,10 +122,9 @@ font-weight: 700;
 font-size: 36px;
 line-height: 111%;
 letter-spacing: 0.02em;
-text-transform: capitalize
+text-transform: capitalize;
 color: #2e2f42;
-text-align
-text-transform: capitalize
+text-align;
 }
 
 .team-list {
@@ -135,7 +136,7 @@ border-radius: 0 0 4px 4px;
 padding: 0px 0px 32px 0px;
 width: 264px;
 height: 380px;
-background-color: #FFFFFF
+background-color: #FFFFFF;
 
 }
 
@@ -176,7 +177,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-text-transform: capitalize
+text-transform: capitalize;
 
 }
 
@@ -223,8 +224,6 @@ background: #2e2f42;
 }
 
 .footer-logo {
-font-weight: 700;
-font-family: "Raleway", sans-serif
 font-size: 18px;
 line-height: 117%;
 letter-spacing: 0.03em;
@@ -235,7 +234,7 @@ color: #4d5ae5;
 .footer-logo-color {
 font-weight: 700;
 color: #f4f4fd;
-font-family: "Raleway", sans-serif
+font-family: "Raleway", sans-serif;
 
 }
 
